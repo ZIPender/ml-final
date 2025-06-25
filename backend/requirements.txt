@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+youtube-transcript-api
+transformers
+scikit-learn
+sentence-transformers
